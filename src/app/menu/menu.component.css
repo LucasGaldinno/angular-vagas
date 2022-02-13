@@ -1,0 +1,15 @@
+header {
+  background-color: rgb(109, 10, 10);
+  height: 80px;
+  font-size: 20px;
+  margin-bottom: 100px;
+}
+
+.nav-link {
+  margin-top: 15px;
+  color: azure;
+}
+
+.nav-link:hover {
+  color: rgb(0, 0, 0);
+}
